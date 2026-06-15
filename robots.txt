@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://KajarnakLOKOSSOU2008.github.io/kajarnak-tech/sitemap.xml
